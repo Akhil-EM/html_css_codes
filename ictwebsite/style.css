@@ -1,0 +1,16 @@
+body {
+          object-fit:unset;
+            background-image:url("bg.jpeg");
+            text-align:center;
+            background-repeat: no-repeat;
+            background-size: cover;
+     }
+     h1
+     {
+       color:rgb(172, 16, 16);
+    
+     }
+     h2
+     {
+            color: rgb(9, 9, 190);
+     }
